@@ -25,6 +25,9 @@ https://community.fabric.microsoft.com/t5/custom/page/page-id/CareerHubPage?ocid
 5. PySpark Playlist: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
 6. Microsoft Live series: https://www.youtube.com/playlist?list=PLmsFUfdnGr3znRatpUz3mvziHpNaEdVAT
 
+#### The Data Guy Isb Newsletters
+https://www.linkedin.com/newsletters/the-data-guy-isb-7123319093067231232/
+
 
 
 
