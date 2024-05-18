@@ -21,8 +21,8 @@ https://community.fabric.microsoft.com/t5/custom/page/page-id/CareerHubPage?ocid
 1. Francis'Channel: https://youtube.com/@ffanalytics?si=Sfj63vaBqiqglasG
 2. Oyinbooke's Channel: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
 3. Will's Channel: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
-4. Amit Chandak: https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39
-5. PySpark: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
+4. Amit Chandak's Channel: https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39
+5. PySpark Playlist: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
 6. Microsoft Live series: https://www.youtube.com/playlist?list=PLmsFUfdnGr3znRatpUz3mvziHpNaEdVAT
 
 
