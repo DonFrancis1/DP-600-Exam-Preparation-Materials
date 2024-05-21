@@ -18,9 +18,9 @@ https://community.fabric.microsoft.com/t5/custom/page/page-id/CareerHubPage?ocid
 
 ### YouTube Resources 
 #### Fabric Hands-on: 
-1. Francis'Channel: https://youtube.com/@ffanalytics?si=Sfj63vaBqiqglasG
-2. Oyinbooke's Channel: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
-3. Will's Channel: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
+1. Francis' Channel: https://youtube.com/@ffanalytics?si=Sfj63vaBqiqglasG
+2. Oyinbooke's Channel: https://youtube.com/@theoyinbooke?si=xZMuvlS_NPeOTYCL
+3. Will's Channel: https://youtube.com/@learnmicrosoftfabric?si=47ZM4ofZsgRUZ0r1
 4. Amit Chandak's Channel: https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39
 5. PySpark Playlist: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
 6. Microsoft Live series: https://www.youtube.com/playlist?list=PLmsFUfdnGr3znRatpUz3mvziHpNaEdVAT
